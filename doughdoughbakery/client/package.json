@@ -44,14 +44,5 @@
     "last 2 versions",
     "not dead",
     "not ie 11"
-  ],
-  "resolutions": {
-    "cross-spawn": "7.0.6",
-    "execa": "9.5.2",
-    "yorkie": "2.0.0",
-    "@vue/cli-plugin-eslint": "5.0.8"
-  },
-  "overrides": {
-    "execa": "^5.0.0"
-  }
+  ]
 }
